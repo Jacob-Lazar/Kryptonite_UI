@@ -171,5 +171,10 @@ namespace Kryptonite_UI___17._6._23
                 WindowState = FormWindowState.Normal;
             }
         }
+
+        private void guna2TextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
